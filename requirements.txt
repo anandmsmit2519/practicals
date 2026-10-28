@@ -1,0 +1,15 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+keras
+scikeras
+tensorflow
+tensorboard
+opencv-python<5
+torch
+torchvision
+pgmpy
+ipywidgets
