@@ -1,0 +1,9 @@
+CustomerID,Age,Salary,City
+1,25.0,50000.0,Mumbai
+2,30.0,60000.0,Delhi
+3,,55000.0,
+4,40.0,,Chennai
+5,29.0,52000.0,Delhi
+6,33.0,58000.0,Mumbai
+7,,,Chennai
+8,120.0,400000.0,Delhi
